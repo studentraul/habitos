@@ -2,7 +2,7 @@
 Acrónomo para:
 - **S**pecific
 - **M**ensurable
-- **A**ttainalbe
+- **A**ttainable
 - **R**elevant
 - **T**ime-related
 
@@ -58,7 +58,7 @@ Obviamente no caso de `publicar 40 artigos`, talvez você não saiba exatamente 
     - Estruturação de dados em Ruby!
 ```
 
-## Attainalbe (Alcançável)
+## Attainable (Alcançável)
 Toda Meta deve ser alvançável. Mas, o que isso significa? Bem, basicamente significa que ela precisa ser palpável, ou seja, nem muito fácil, mas nem impossível.
 
 É sempre dificil estipular metas, mas como dito anteriormente, precisa haver flexibilidade, ou seja, se com o passar do tempo você olha e você pensa: `Acho que exagerei nessa meta aqui! É humanamente impossível fazer isso nesse prazo`, talvez seja um indicativo que você precisa reduzi-la. Ou no caso inverso: `Nossa, essa meta ta muito fácil, vou terminar 2 meses antes do previsto`, nesse caso talvez seja necessário aumentar um pouco o grau de dificuldade, afinal, precisa ser desafiante.
