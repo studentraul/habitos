@@ -8,6 +8,5 @@ Repositório com foco em fazer anotações e resenhas sobre o [curso de Hábitos
 
 ## Aula 1
 
-1. [Reconhecendo seus Hábitos](aulas/reconhecendo-seus-habitos/reconhecendo-seus-habitos.md)
-2. [Hábitos](aulas/reconhecendo-seus-habitos/habitos.md)
-3. [Método S.M.A.R.T.](aulas/reconhecendo-seus-habitos/SMART.md)
+[Reconhecendo seus Hábitos, Hábitos e Método S.M.A.R.T](aulas/1/habitos.md)
+[Hábitos chave, Mudança de Hábito, Mantendo bons hábitos](aulas/2/habitos-chave.md)
