@@ -7,3 +7,4 @@ Repositório com foco em fazer anotações e resenhas sobre o [curso de Hábitos
 - [Aula 1: Reconhecendo seus Hábitos, Hábitos e Método S.M.A.R.T](aulas/1/habitos.md)
 - [Aula 2: Hábitos chave, Mudança de Hábito, Mantendo bons hábitos](aulas/2/habitos-chave.md)
 - [Aula 3: Procrastinação e Recompensa](aulas/3/procrastinacao.md)
+- [Aula 4: Disciplina, organização e equilibrio](aulas/4/disciplina.md)
