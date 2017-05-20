@@ -1,4 +1,5 @@
 # Procrastinação
+[<-- Voltar](/README.md)
 
 > Quando você deixa de fazer algo importante ou urgente pra fazer alguma coisa mais besta
 
@@ -77,3 +78,5 @@ Enfim, é MUITO importante definir uma recompensa pra fazer seu corpo sentir von
 > SEMPRE SE RECOMPENSE
 
 Tire momentos semanais para relaxar, fazer esportes, praticar leituras que não estejam relacionadas ao seu dia-a-dia. É importante ter esses momentos para recarregar a bateria e voltar com mais ânimo para continuar a rotina.
+
+[Aula 4: Disciplina, organização e equilibrio](/aulas/4/disciplina.md)

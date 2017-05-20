@@ -1,4 +1,5 @@
 # Hábitos Chave
+[<-- Voltar](/README.md)
 
 ## Mudança do Hábito
 
@@ -57,3 +58,5 @@ Esse hábito pode ser muito bom, mas em contra partida pode ser muito ruim, pois
 Um outro hábito que pode ser prejudicial pra vida como um todo é o fato de ficar dando desculpas para as coisas. "Não pude entregar porque tive um problema muito sério", "Não deu pra fazer pois eu não tive condições de ir", etc.
 
 Então, convém mudarmos isso de forma que assumimos a responsabilidade de nossos atos e busquemos sermos sinceros e honestos com os outros e conoscos.
+
+[Aula 3: Procrastinação e Recompensa](/aulas/3/procrastinacao.md)

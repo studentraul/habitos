@@ -1,4 +1,5 @@
 # Hábitos
+[<-- Voltar](/README.md)
 
 Hábitos são atividades que se repetem todos os dias e de forma automática. E porque automática? Bem, por questões evolutivas, nosso corpo sempre busca gastar a menor quantidade de horas possíveis para a realização de alguma atividade. Assim, ao andarmos de biciclita por exemplo, já sabemos como pedalar, como se equilibrar e geralmente qual o trajeto, logo, não precisamos dedicar esforço neural para realizar essas atividades, destinando o mesmo para outras coisas como pensar nas coisas que você tem que fazer, refletir sobre alguma coisa, ouvir um podcast e etc.
 
@@ -136,3 +137,5 @@ Basicamente o motivo de se definir um prazo é esse. Se deixamos sem, vamos faze
 - Fazer 20 cursos de Ruby
 - Prazo: 4 meses
 ```
+
+[Aula 2: Hábitos chave, Mudança de Hábito, Mantendo bons hábitos](/aulas/2/habitos-chave.md)
